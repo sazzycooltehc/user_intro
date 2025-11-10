@@ -11,22 +11,22 @@ Quick Links â†’ [Weekly Planner](#weekly-planner) | [Quarterly Milestones](
 ---
 
 ## ðŸ“… Weekly Planner
-| Day | Morning Focus | Evening Focus | âœ… Done? | Notes |
-|-----|----------------|----------------|----------|--------|
-| Monday | Communication & Product Thinking | Frontend Architecture | â˜ | |
-| Tuesday | Leadership & Collaboration | Backend Development | â˜ | |
-| Wednesday | Decision-Making & Trade-offs | Cloud & Distributed Systems | â˜ | |
-| Thursday | Analytical Thinking | Machine Learning & MLOps | â˜ | |
-| Friday | Tech Trend Awareness | DevOps & Reliability | â˜ | |
-| Saturday | Project Integration / Refactor | Architecture Review | â˜ | |
-| Sunday | Revision & Exploration | â€” | â˜ | |
+| Day | Morning Focus | Evening Focus | Progress | Notes |
+|-----|----------------|----------------|-----------|--------|
+| Monday | Communication & Product Thinking | Frontend Architecture | ðŸ”˜ðŸ”˜âšªâšªâšª | |
+| Tuesday | Leadership & Collaboration | Backend Development | ðŸ”˜âšªâšªâšªâšª | |
+| Wednesday | Decision-Making & Trade-offs | Cloud & Distributed Systems | ðŸ”˜ðŸ”˜âšªâšªâšª | |
+| Thursday | Analytical Thinking | Machine Learning & MLOps | ðŸ”˜âšªâšªâšªâšª | |
+| Friday | Tech Trend Awareness | DevOps & Reliability | ðŸ”˜âšªâšªâšªâšª | |
+| Saturday | Project Integration / Refactor | Architecture Review | ðŸ”˜ðŸ”˜âšªâšªâšª | |
+| Sunday | Revision & Exploration | â€” | ðŸ”˜âšªâšªâšªâšª | |
 
-**Progress:**  
-`prop("âœ… Done?") / 7 * 100` â†’ auto-calculates weekly completion % in Notion.
+ðŸ—“ **Tip:** Update the progress bar with ðŸ”˜ (done) and âšª (pending) each week.
 
 ---
 
 ## ðŸŽ¯ Quarterly Milestones
+
 ### ðŸ§© Q1 â€“ Core Stack Mastery
 - [ ] Build 2 Fullstack Projects  
 - [ ] Learn Design Principles (SOLID, DRY, KISS)
@@ -43,32 +43,32 @@ Quick Links â†’ [Weekly Planner](#weekly-planner) | [Quarterly Milestones](
 - [ ] Design a Scalable System (Netflix Clone)  
 - [ ] Write an Architecture Doc and Review it
 
-**Quarterly Completion Formula:**  
-`(toNumber(prop("Completed")) / toNumber(prop("Total"))) * 100`
+ðŸ§© **Quarterly Tip:** At the end of each quarter, write a short review of what improved in your architectural thinking.
 
 ---
 
 ## ðŸ§  Learning Resource Library
 | Title | Type | Link | Category | Status |
 |--------|------|------|-----------|---------|
-| Designing Micro Frontends | Blog |  | Frontend | ðŸ“– |
-| AWS Lambda Deep Dive | Video |  | Cloud | ðŸ“– |
-| Clean Code by Uncle Bob | Book |  | Architecture | âœ… |
-| Intro to MLOps | Course |  | ML | ðŸ“– |
+| Designing Micro Frontends | Blog | â€” | Frontend | ðŸ“– |
+| AWS Lambda Deep Dive | Video | â€” | Cloud | ðŸ“– |
+| Clean Code by Uncle Bob | Book | â€” | Architecture | âœ… |
+| Intro to MLOps | Course | â€” | ML | ðŸ“– |
+
+ðŸ“˜ **Tip:** Keep adding new resources as you discover them â€” even short articles or videos.
 
 ---
 
 ## ðŸ“Š Skill Progress Board
 | Skill Area | Current Level | Next Goal | Target Date | Progress |
 |-------------|----------------|-------------|--------------|-----------|
-| Frontend | Intermediate | Master Micro Frontends | Jan 2026 | 60% |
-| Backend | Beginner | Build Scalable API | Feb 2026 | 40% |
-| Cloud | Beginner | Deploy via AWS CDK | Mar 2026 | 30% |
-| DevOps | Beginner | Build CI/CD | Apr 2026 | 25% |
-| ML | Beginner | Integrate ML model | May 2026 | 20% |
+| Frontend | Intermediate | Master Micro Frontends | Jan 2026 | ðŸ”˜ðŸ”˜ðŸ”˜ðŸ”˜âšªâšªâšªâšªâšªâšª |
+| Backend | Beginner | Build Scalable API | Feb 2026 | ðŸ”˜ðŸ”˜ðŸ”˜âšªâšªâšªâšªâšªâšªâšª |
+| Cloud | Beginner | Deploy via AWS CDK | Mar 2026 | ðŸ”˜ðŸ”˜âšªâšªâšªâšªâšªâšªâšªâšª |
+| DevOps | Beginner | Build CI/CD | Apr 2026 | ðŸ”˜ðŸ”˜âšªâšªâšªâšªâšªâšªâšªâšª |
+| ML | Beginner | Integrate ML model | May 2026 | ðŸ”˜âšªâšªâšªâšªâšªâšªâšªâšªâšª |
 
-**Progress Bar Formula (in Notion):**  
-`"â–“".repeat(floor(prop("Progress") / 10)) + "â–‘".repeat(10 - floor(prop("Progress") / 10))`
+â­ **Tip:** Fill one more ðŸ”˜ every time you complete a milestone in that area.
 
 ---
 
@@ -78,18 +78,22 @@ Quick Links â†’ [Weekly Planner](#weekly-planner) | [Quarterly Milestones](
 | UrbanMetro | Python, React, AWS | In Progress | âœ… | â€” |
 | Portfolio Revamp | Next.js, Docker | Planning | â˜ | â€” |
 
-**Status-based Completion Formula:**  
-`if(prop("Stage") == "Completed", "âœ…", "ðŸš§")`
+ðŸ’¡ **Tip:** Always document â€œWhy this architecture?â€ before finalizing design decisions.
 
 ---
 
 ## ðŸªœ Reflections & Notes
-**Weekly Prompts:**  
+### Weekly Prompts:
 - ðŸ§  What did I learn this week?  
 - ðŸ’¡ What challenge did I solve elegantly?  
 - âš™ï¸ What process can I optimize next week?  
 - ðŸŒ± How can I think more architecturally?
 
+âœï¸ **Reflection Tip:** Spend 10 mins every Sunday summarizing key insights â€” it compounds over time.
+
 ---
 
-> Keep iterating weekly â€” focus on building systems, not just code. Every solved problem should teach scalability, reliability, and clarity.
+### ðŸŒŸ Footer
+> _â€œKeep building systems, not just software. Every small refactor makes you a better architect.â€_  
+> **Version 1.0 â€“ November 2025**  
+> Crafted for growth ðŸš€ by ChatGPT & Aravind SS
