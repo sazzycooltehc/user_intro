@@ -1,4 +1,6 @@
-🚀 Angular + Node.js Architect Roadmap (8-Week Accelerated Edition)
+# 🚀 Angular + Node.js Architect Roadmap (8-Week Accelerated Edition)
+
+
 > 🎯 Goal: Achieve Fullstack mastery (Angular, Node, Docker, K8s Basics) and job-ready soft skills in 8 weeks.
 > ⏱️ Pace: Accelerated (30+ hours/week recommended).
 > 👑 Final Project: WeatherPortal Pro (Authenticated, Containerized, CI/CD).
