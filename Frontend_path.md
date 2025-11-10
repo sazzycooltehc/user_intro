@@ -1,17 +1,98 @@
-# 🧭 Frontend + DevOps Engineer Roadmap | 🚀 From Angular to Cloud Architect – Build, Automate, Scale.
+# 🧭 Frontend + DevOps Engineer Roadmap | 2025 Edition  
+🚀 From Angular to Cloud Architect — Build, Automate, Scale.
 
-A complete 14-week guided roadmap for developers transitioning into **frontend-DevOps hybrid roles**, with a strong foundation in Angular, React, Next.js, Docker, Kubernetes, CI/CD, Cloud, and testing.
+A complete 14-week guided roadmap designed for developers who want to evolve from **frontend development** to **technical architect** level — mastering Angular, React, Next.js, Node, Docker, Kubernetes, CI/CD, Cloud, and modern testing practices.
+
+---
+
+## ✅ **Prerequisite Skills Checklist**
+
+| Skill | Status |
+|-------|--------|
+| HTML & CSS Basics | ☐ |
+| JavaScript (ES6+) | ☐ |
+| TypeScript | ☐ |
+| Git & GitHub | ☐ |
+| IDE Setup (VS Code / JetBrains) | ☐ |
+| Node.js Installed | ☐ |
+| Docker Installed | ☐ |
+| Basic CLI & Linux Familiarity | ☐ |
+
+---
+
+## ⚙️ **Week 0–1: Frontend Core Foundations (The Base Layer)**
+> 🧠 Before mastering frameworks, master the web itself.
+
+### 🧩 **HTML & CSS Fundamentals**
+- HTML5 semantics (header, main, section, article, footer)  
+- Accessibility basics (ARIA roles, alt text, labels)  
+- CSS3 positioning, flexbox, grid  
+- Responsive design using media queries  
+- Animations & transitions  
+- CSS preprocessors (SASS/SCSS) basics  
+- Component styling in Angular/React (ViewEncapsulation, Styled Components)  
+
+📘 *Resources:*  
+- [MDN HTML Guide](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+- [MDN CSS Guide](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+- [Flexbox Froggy](https://flexboxfroggy.com/)  
+- [Grid Garden](https://cssgridgarden.com/)
+
+---
+
+### ⚡ **JavaScript & TypeScript**
+- Core JS: closures, prototypes, event loop  
+- Async patterns: promises, async/await, callbacks  
+- ES6+ syntax (arrow functions, destructuring, spread, modules)  
+- TypeScript essentials: interfaces, generics, decorators  
+- OOP in TS + dependency injection concepts  
+- Clean code patterns for frontend apps  
+
+📘 *Resources:*  
+- [JavaScript.info](https://javascript.info/)  
+- [TypeScript Docs](https://www.typescriptlang.org/docs/)  
+- [Clean Code JS](https://github.com/ryanmcdermott/clean-code-javascript)
+
+---
+
+### 🧠 **Angular Power Add-ons (NgRx & Signals)**
+- **NgRx:** Store, Actions, Reducers, Selectors, Effects  
+- State immutability and data flow  
+- **Signals (Angular 17+)** – reactivity done right  
+- Change detection optimization  
+- Custom pipes, directives, and performance tuning  
+
+📘 *Resources:*  
+- [NgRx Docs](https://ngrx.io/guide/store)  
+- [Angular Signals Guide](https://angular.dev/guide/signals)  
+- [Angular Change Detection Deep Dive](https://indepth.dev/posts/1504/angular-change-detection)
+
+---
+
+### 🎨 **UI/UX Design Principles for Developers**
+- Visual hierarchy, spacing, and alignment  
+- Consistent color theory and typography  
+- Using component libraries (Angular Material, Tailwind, Chakra UI)  
+- Responsive layouts (mobile-first design)  
+- Figma basics for developers  
+- Accessibility and usability best practices (WCAG)  
+
+📘 *Resources:*  
+- [Google Material Design](https://m3.material.io/)  
+- [Tailwind CSS Docs](https://tailwindcss.com/docs)  
+- [Figma for Developers](https://help.figma.com/hc/en-us/articles/360040451373-Developer-Handoff)  
+- [Web Accessibility Guide](https://www.w3.org/WAI/)
 
 ---
 
 ## 🗓️ **Week-by-Week Plan**
 
 ### **Weeks 1–2: Angular Deep Dive**
-- **Core Concepts:** Components, Modules, Services, Lifecycle Hooks  
-- **Routing & Guards**  
-- **Reactive Forms and State Management (RxJS, Signals)**  
-- **Unit Testing:** Jasmine & Karma basics  
-- **Mini Project:** Build a dashboard with charts and API integration  
+- Components, Modules, Services, Lifecycle Hooks  
+- Routing & Guards  
+- Reactive Forms & RxJS  
+- Testing with Jasmine & Karma  
+- Mini Project: Dashboard with API integration  
 
 📘 *Resources:*  
 - [Angular Docs](https://angular.dev/)  
@@ -21,25 +102,25 @@ A complete 14-week guided roadmap for developers transitioning into **frontend-D
 ---
 
 ### **Weeks 3–4: React & Next.js**
-- **React Essentials:** Hooks, Context API, Custom Hooks  
-- **Next.js:** Routing, SSR, and API routes  
-- **Microfrontends Introduction** – Module Federation basics  
-- **Testing:** Jest + React Testing Library  
-- **Mini Project:** Build a multi-page portfolio using Next.js  
+- React Hooks & Context API  
+- Next.js routing, SSR, API routes  
+- Microfrontends via Module Federation  
+- Jest & React Testing Library  
+- Mini Project: Multi-page portfolio (Next.js)  
 
 📘 *Resources:*  
 - [React Docs](https://react.dev/)  
 - [Next.js Docs](https://nextjs.org/docs)  
-- [Microfrontends Module Federation](https://webpack.js.org/concepts/module-federation/)
+- [Module Federation](https://webpack.js.org/concepts/module-federation/)
 
 ---
 
 ### **Weeks 5–6: Backend Fundamentals (Node.js & Express)**
-- RESTful APIs using **Express.js**  
-- Middleware and routing patterns  
-- Working with MongoDB or PostgreSQL  
-- API testing using **Postman**  
-- Authentication basics (JWT, OAuth)  
+- RESTful APIs with Express  
+- Middleware & routing patterns  
+- MongoDB / PostgreSQL basics  
+- API testing with Postman  
+- JWT / OAuth authentication  
 
 📘 *Resources:*  
 - [Node.js Docs](https://nodejs.org/en/docs)  
@@ -49,39 +130,39 @@ A complete 14-week guided roadmap for developers transitioning into **frontend-D
 ---
 
 ### **Weeks 7–8: DevOps Foundations**
-- **Docker Basics:** Containers, Images, Volumes  
-- **Docker Compose:** Multi-container applications  
-- **Kubernetes Intro:** Pods, Deployments, Services  
-- **CI/CD Concepts:** Workflows and pipelines  
-- **Version Control:** Git branching and GitHub workflows  
+- Docker: containers, images, volumes  
+- Docker Compose (multi-container setup)  
+- Kubernetes: pods, deployments, services  
+- CI/CD fundamentals  
+- Git branching & GitHub workflows  
 
 📘 *Resources:*  
 - [Docker Docs](https://docs.docker.com/)  
 - [Kubernetes Docs](https://kubernetes.io/docs/)  
-- [GitHub Actions](https://docs.github.com/en/actions)  
+- [GitHub Actions](https://docs.github.com/en/actions)
 
 ---
 
 ### **Weeks 9–10: Testing, CI/CD & Automation**
-- **Unit + Integration Tests:** Karma, Jasmine, Jest  
-- **End-to-End Tests:** Cypress setup and usage  
-- **CI/CD Pipelines:** GitHub Actions or Jenkins  
-- **SonarQube Integration:** Quality Gates and Code Analysis  
-- **Automated Linting and Code Review (ESLint, Prettier)**  
+- Unit + Integration Tests: Karma, Jasmine, Jest  
+- E2E Tests: Cypress  
+- CI/CD with GitHub Actions or Jenkins  
+- SonarQube integration (Quality Gates, Reports)  
+- Automated linting (ESLint, Prettier)  
 
 📘 *Resources:*  
 - [Cypress Docs](https://docs.cypress.io/)  
 - [SonarQube Docs](https://docs.sonarsource.com/sonarqube/latest/)  
-- [Jenkins Docs](https://www.jenkins.io/doc/)  
+- [Jenkins Docs](https://www.jenkins.io/doc/)
 
 ---
 
 ### **Weeks 11–12: Cloud & Edge Computing**
-- **AWS / Azure / GCP Basics** – IAM, EC2, S3, App Services  
-- **Deploy Docker Apps to Cloud**  
-- **CI/CD Integration with Cloud**  
-- **Nginx Setup for Reverse Proxy & Load Balancing**  
-- **Serverless Overview (Lambda, Cloud Functions)**  
+- AWS / Azure / GCP basics (IAM, EC2, S3, App Services)  
+- Deploy Docker apps to Cloud  
+- CI/CD integration with Cloud  
+- Nginx for reverse proxy & load balancing  
+- Serverless basics (Lambda, Cloud Functions)  
 
 📘 *Resources:*  
 - [AWS Free Tier](https://aws.amazon.com/free/)  
@@ -91,13 +172,12 @@ A complete 14-week guided roadmap for developers transitioning into **frontend-D
 
 ---
 
-### **Weeks 13–14: AI Tools, Copilot, and Final Project**
-- **GitHub Copilot Setup and Usage**  
-- **Prompting for Efficient Development**  
-- **Integrating Copilot with VS Code**  
-- **Final Capstone Project:**  
-  - Combine frontend (Angular or React) + backend (Node) + CI/CD + Docker  
-  - Run SonarQube analysis and deploy on Cloud  
+### **Weeks 13–14: Copilot, AI Tools & Final Project**
+- Setup GitHub Copilot  
+- Smart prompting for code generation  
+- Integrate Copilot in VS Code  
+- **Capstone Project:**  
+  Combine Angular/React frontend + Node backend + Docker + CI/CD + Cloud + SonarQube  
 
 📘 *Resources:*  
 - [GitHub Copilot](https://docs.github.com/en/copilot)  
