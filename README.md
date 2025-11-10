@@ -1,6 +1,6 @@
 # 🧭 Technical Architect Roadmap (Personal Tracker)
 
-> A structured path to evolve from Developer → Technical Architect.
+> A structured path to evolve from Junior Dev → Developer.
 
 ---
 
