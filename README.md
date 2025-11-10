@@ -1,99 +1,102 @@
+# 🧭 Technical Architect Roadmap (Personal Tracker)
 
-# ðŸ§­ Technical Architect Roadmap (Personal Tracker)
-
-> A structured path to evolve from Developer â†’ Technical Architect.
-
----
-
-## ðŸ  Dashboard Overview
-Quick Links â†’ [Weekly Planner](#weekly-planner) | [Quarterly Milestones](#quarterly-milestones) | [Learning Library](#learning-resource-library) | [Project Tracker](#project-tracker) | [Skill Progress](#skill-progress-board) | [Reflections](#reflections--notes)
+> A structured path to evolve from Developer → Technical Architect.
 
 ---
 
-## ðŸ“… Weekly Planner
+## 🏠 Dashboard Overview
+Quick Links → [Weekly Planner](#weekly-planner) | [Quarterly Milestones](#quarterly-milestones) | [Learning Library](#learning-resource-library) | [Project Tracker](#project-tracker) | [Skill Progress](#skill-progress-board) | [Reflections](#reflections--notes)
+
+---
+
+## 📅 Weekly Planner
 | Day | Morning Focus | Evening Focus | Progress | Notes |
 |-----|----------------|----------------|-----------|--------|
-| Monday | Communication & Product Thinking | Frontend Architecture | ðŸ”˜ðŸ”˜âšªâšªâšª | |
-| Tuesday | Leadership & Collaboration | Backend Development | ðŸ”˜âšªâšªâšªâšª | |
-| Wednesday | Decision-Making & Trade-offs | Cloud & Distributed Systems | ðŸ”˜ðŸ”˜âšªâšªâšª | |
-| Thursday | Analytical Thinking | Machine Learning & MLOps | ðŸ”˜âšªâšªâšªâšª | |
-| Friday | Tech Trend Awareness | DevOps & Reliability | ðŸ”˜âšªâšªâšªâšª | |
-| Saturday | Project Integration / Refactor | Architecture Review | ðŸ”˜ðŸ”˜âšªâšªâšª | |
-| Sunday | Revision & Exploration | â€” | ðŸ”˜âšªâšªâšªâšª | |
+| Monday | Communication & Product Thinking | Frontend Architecture | 🔘🔘⚪⚪⚪ | |
+| Tuesday | Leadership & Collaboration | Backend Development | 🔘⚪⚪⚪⚪ | |
+| Wednesday | Decision-Making & Trade-offs | Cloud & Distributed Systems | 🔘🔘⚪⚪⚪ | |
+| Thursday | Analytical Thinking | Machine Learning & MLOps | 🔘⚪⚪⚪⚪ | |
+| Friday | Tech Trend Awareness | DevOps & Reliability | 🔘⚪⚪⚪⚪ | |
+| Saturday | Project Integration / Refactor | Architecture Review | 🔘🔘⚪⚪⚪ | |
+| Sunday | Revision & Exploration | — | 🔘⚪⚪⚪⚪ | |
 
-ðŸ—“ **Tip:** Update the progress bar with ðŸ”˜ (done) and âšª (pending) each week.
+🗓 **Tip:** Update the progress bar with 🔘 (done) and ⚪ (pending) each week.
 
 ---
 
-## ðŸŽ¯ Quarterly Milestones
+## 🎯 Quarterly Milestones
 
-### ðŸ§© Q1 â€“ Core Stack Mastery
+### 🧩 Q1 – Core Stack Mastery
 - [ ] Build 2 Fullstack Projects  
 - [ ] Learn Design Principles (SOLID, DRY, KISS)
 
-### â˜ï¸ Q2 â€“ Cloud + DevOps Foundations
+### ☁️ Q2 – Cloud + DevOps Foundations
 - [ ] Deploy an app on AWS/GCP  
 - [ ] Implement CI/CD and Monitoring
 
-### ðŸ¤– Q3 â€“ ML + System Design
+### 🤖 Q3 – ML + System Design
 - [ ] Train and deploy a small ML model  
 - [ ] Solve 10 System Design Problems
 
-### ðŸ§  Q4 â€“ Architecture & Leadership
+### 🧠 Q4 – Architecture & Leadership
 - [ ] Design a Scalable System (Netflix Clone)  
 - [ ] Write an Architecture Doc and Review it
 
-ðŸ§© **Quarterly Tip:** At the end of each quarter, write a short review of what improved in your architectural thinking.
+🧩 **Quarterly Tip:** At the end of each quarter, write a short review of what improved in your architectural thinking.
 
 ---
 
-## ðŸ§  Learning Resource Library
+## 🧠 Learning Resource Library
 | Title | Type | Link | Category | Status |
 |--------|------|------|-----------|---------|
-| Designing Micro Frontends | Blog | â€” | Frontend | ðŸ“– |
-| AWS Lambda Deep Dive | Video | â€” | Cloud | ðŸ“– |
-| Clean Code by Uncle Bob | Book | â€” | Architecture | âœ… |
-| Intro to MLOps | Course | â€” | ML | ðŸ“– |
+| Designing Micro Frontends | Blog | — | Frontend | 📖 |
+| AWS Lambda Deep Dive | Video | — | Cloud | 📖 |
+| Clean Code by Uncle Bob | Book | — | Architecture | ✅ |
+| Intro to MLOps | Course | — | ML | 📖 |
 
-ðŸ“˜ **Tip:** Keep adding new resources as you discover them â€” even short articles or videos.
+📘 **Tip:** Keep adding new resources as you discover them — even short articles or videos.
 
 ---
 
-## ðŸ“Š Skill Progress Board
+## 📊 Skill Progress Board
 | Skill Area | Current Level | Next Goal | Target Date | Progress |
 |-------------|----------------|-------------|--------------|-----------|
-| Frontend | Intermediate | Master Micro Frontends | Jan 2026 | ðŸ”˜ðŸ”˜ðŸ”˜ðŸ”˜âšªâšªâšªâšªâšªâšª |
-| Backend | Beginner | Build Scalable API | Feb 2026 | ðŸ”˜ðŸ”˜ðŸ”˜âšªâšªâšªâšªâšªâšªâšª |
-| Cloud | Beginner | Deploy via AWS CDK | Mar 2026 | ðŸ”˜ðŸ”˜âšªâšªâšªâšªâšªâšªâšªâšª |
-| DevOps | Beginner | Build CI/CD | Apr 2026 | ðŸ”˜ðŸ”˜âšªâšªâšªâšªâšªâšªâšªâšª |
-| ML | Beginner | Integrate ML model | May 2026 | ðŸ”˜âšªâšªâšªâšªâšªâšªâšªâšªâšª |
+| Frontend | Intermediate | Master Micro Frontends | Jan 2026 | 🔘🔘🔘🔘⚪⚪⚪⚪⚪⚪ |
+| Backend | Beginner | Build Scalable API | Feb 2026 | 🔘🔘🔘⚪⚪⚪⚪⚪⚪⚪ |
+| Cloud | Beginner | Deploy via AWS CDK | Mar 2026 | 🔘🔘⚪⚪⚪⚪⚪⚪⚪⚪ |
+| DevOps | Beginner | Build CI/CD | Apr 2026 | 🔘🔘⚪⚪⚪⚪⚪⚪⚪⚪ |
+| ML | Beginner | Integrate ML model | May 2026 | 🔘⚪⚪⚪⚪⚪⚪⚪⚪⚪ |
 
-â­ **Tip:** Fill one more ðŸ”˜ every time you complete a milestone in that area.
+⭐ **Tip:** Fill one more 🔘 every time you complete a milestone in that area.
 
 ---
 
-## ðŸ§© Project Tracker
+## 🧩 Project Tracker
 | Project Name | Tech Stack | Stage | Architecture Doc | Demo Link |
 |----------------|-------------|--------|------------------|------------|
-| UrbanMetro | Python, React, AWS | In Progress | âœ… | â€” |
-| Portfolio Revamp | Next.js, Docker | Planning | â˜ | â€” |
+| UrbanMetro | Python, React, AWS | In Progress | ✅ | — |
+| Portfolio Revamp | Next.js, Docker | Planning | ☐ | — |
 
-ðŸ’¡ **Tip:** Always document â€œWhy this architecture?â€ before finalizing design decisions.
+💡 **Tip:** Always document “Why this architecture?” before finalizing design decisions.
 
 ---
 
-## ðŸªœ Reflections & Notes
+## 🪜 Reflections & Notes
 ### Weekly Prompts:
-- ðŸ§  What did I learn this week?  
-- ðŸ’¡ What challenge did I solve elegantly?  
-- âš™ï¸ What process can I optimize next week?  
-- ðŸŒ± How can I think more architecturally?
+- 🧠 What did I learn this week?  
+- 💡 What challenge did I solve elegantly?  
+- ⚙️ What process can I optimize next week?  
+- 🌱 How can I think more architecturally?
 
-âœï¸ **Reflection Tip:** Spend 10 mins every Sunday summarizing key insights â€” it compounds over time.
+✏️ **Reflection Tip:** Spend 10 mins every Sunday summarizing key insights — it compounds over time.
 
 ---
 
-### ðŸŒŸ Footer
-> _â€œKeep building systems, not just software. Every small refactor makes you a better architect.â€_  
-> **Version 1.0 â€“ November 2025**  
-> Crafted for growth ðŸš€ by ChatGPT & Aravind SS
+### 🌟 Footer
+> _“Keep building systems, not just software. Every small refactor makes you a better architect.”_  
+> **Version 1.0 – November 2025**  
+> Crafted for growth 🚀 
+
+Huge Credits to ChatGPT 🧠 
+
+Done for Aravind SS
