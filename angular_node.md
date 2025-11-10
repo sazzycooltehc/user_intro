@@ -30,4 +30,4 @@
 | React/Vue Overview | Spend 1-2 days building a mini-project in another framework to understand cross-framework architecture. |
 | Advanced K8s | Implement a basic Horizontal Pod Autoscaler (HPA) rule in your Kubernetes deployment. |
 
-This accelerated roadmap ensures you touch every major aspect required for an Angular Dev role, while also deliberately practicing the soft skills that transform a good coder into a great engineering lead.
+This accelerated roadmap ensures you touch every major aspect required for an Angular Dev role, while also deliberately practicing the soft skills that transform a good coder into a better one.
