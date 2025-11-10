@@ -24,7 +24,7 @@
 | M2 | Fullstack Engineer (Node.js, Security, Full Integration) complete. | End of Week 5 | [ ] |
 | M3 | DevOps Ready (Docker, K8s, CI/CD Pipeline) established. | End of Week 7 | [ ] |
 | M4 | Production-Grade Deployment and Final Project complete. | End of Week 8 | [ ] |
-🧠 Optional Advanced Challenge (If time allows)
+🧠 Optional Advanced Challenges
 | Challenge | Focus |
 |---|---|
 | React/Vue Overview | Spend 1-2 days building a mini-project in another framework to understand cross-framework architecture. |
